@@ -85,6 +85,20 @@ private void methodOfFileUtils() throws IOException
 	   //   c.exereisePro10();
 		
 	}
-	
+	private void branchsimman() {
+		System.out.println(" Simman");
+
+	}
+
+	private void branchsimman1() {
+		System.out.println(" Simman");
+
+	}
+
+	private void branchsimman2() {
+		System.out.println(" Simman");
+
+	}
+
 	
 }
