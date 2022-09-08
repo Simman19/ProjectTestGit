@@ -99,6 +99,10 @@ private void methodOfFileUtils() throws IOException
 		System.out.println(" Simman");
 
 	}
+	private void add() {
+		// TODO Auto-generated method stub
+
+	}
 
 	
 }
